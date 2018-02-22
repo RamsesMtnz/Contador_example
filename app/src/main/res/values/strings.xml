@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="bienvenida">Bienvenido al contador</string>
+    <string name="boton">Aumentar</string>
+</resources>
